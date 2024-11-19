@@ -20,6 +20,7 @@ const Products = () => {
 		padding: "0.75em",
 		marginBottom: "1.25em",
 		fontSize: "1em",
+		outline: "none",
 	};
 
 	let productsContainer = {
